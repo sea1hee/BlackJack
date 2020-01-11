@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAgEAAAGAAAAQAQAgAAAgAACCAEAAEgAgAAAwkAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAggAAAQAAEAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckLoser" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAACAAAAEAAAgAAAAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>CheckLoser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckWinner" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAAAAAAAAAAAAEAAAgAAAAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>CheckWinner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAEBAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandFactory" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAABAAARAAEAAAAAAAAA=</HashCode>
+      <FileName>CommandFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCommandInvoker" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAECAAAA=</HashCode>
+      <FileName>GameCommandInvoker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InitialCardDistribution" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAUAAAhAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>InitialCardDistribution.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalHitRequest" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAAEAAAhAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalHitRequest.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Replay" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAQQAAAAgAAAA=</HashCode>
+      <FileName>Replay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAEAgAAAgAADAICAQAkUwAAAgAABgABIACQAAAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserScoreInfo" Collapsed="true">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIgAAQAQAAABAIAAAAAAAAAAAAAAAgARAAAQA=</HashCode>
+      <FileName>UserScoreInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
